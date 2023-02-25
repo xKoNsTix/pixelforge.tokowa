@@ -1,5 +1,5 @@
 {
-  "name": "pixelforge.tokowa",
+  "name": "backit",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,15 +8,25 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xKoNsTix/pixelforge.tokowa.git"
+    "url": "git+https://github.com/xKoNsTix/backit.git"
   },
-  "author": "",
+  "keywords": [
+    "bakery",
+    "backs",
+    "backit",
+    "backlava"
+  ],
+  "author": "konsti k.",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/xKoNsTix/pixelforge.tokowa/issues"
+    "url": "https://github.com/xKoNsTix/backit/issues"
   },
-  "homepage": "https://github.com/xKoNsTix/pixelforge.tokowa#readme",
+  "homepage": "https://github.com/xKoNsTix/backit#readme",
   "dependencies": {
-    "browser-sync": "^2.27.12"
+    "browsersync": "^0.0.1-security",
+    "esbuild": "^0.16.12"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.27.11"
   }
 }

@@ -36,7 +36,7 @@ set('composer_action', false);
 
 task('post-deploy', function () {
 
-    run('sudo chown -R ben:www-data /var/www/pixelforge.tokowa.at');
+    run('sudo chown -R konsti:www-data /var/www/pixelforge.tokowa.at');
     run('sudo chmod -R u+rwx /var/www/pixelforge.tokowa.at');
   });
 
