@@ -930,4 +930,4 @@ if( ! function_exists( 'avia_disable_seo_analysis_delay_cb' ) )
  *  register custom functions that are not related to the framework but necessary for the theme to run
  */
 require_once( 'functions-enfold.php' );
-add_theme_support( ‘avia_demo_store_downloaded_files’ );
+
