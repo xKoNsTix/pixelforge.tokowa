@@ -1,0 +1,22 @@
+{
+  "name": "pixelforge.tokowa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xKoNsTix/pixelforge.tokowa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xKoNsTix/pixelforge.tokowa/issues"
+  },
+  "homepage": "https://github.com/xKoNsTix/pixelforge.tokowa#readme",
+  "dependencies": {
+    "browser-sync": "^2.27.12"
+  }
+}
